@@ -39,8 +39,8 @@ ul.posts {
 }
 
 .profile-pic {
-  max-width: 150px;
-  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 0 auto 20px;
 }
